@@ -20,5 +20,45 @@
       "message": "Asdda",
       "id": 2
     }
+  ],
+  "QuoteCorner": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "PowerPunch": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "UpcomingBooks": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "Questions": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "HumourHour": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
   ]
 }
