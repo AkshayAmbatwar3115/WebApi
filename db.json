@@ -1,0 +1,24 @@
+{
+  "Flash": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "100Word": [
+    {
+      "id": 1,
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "message": "lorem inspajajhb ahahhababa"
+    },
+    {
+      "name": "Website",
+      "email": "akshay@inspacco.com",
+      "message": "Asdda",
+      "id": 2
+    }
+  ]
+}
