@@ -60,5 +60,38 @@
       "message": "asdaaa",
       "id": 1
     }
+  ],
+  "BookReview": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "RisingStar": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "MuseAtAuthoropod": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
+  ],
+  "SolelyPoetry": [
+    {
+      "name": "Akshay Ambatwar",
+      "email": "ambatwarakshay@gmail.com",
+      "message": "asdaaa",
+      "id": 1
+    }
   ]
+
 }
